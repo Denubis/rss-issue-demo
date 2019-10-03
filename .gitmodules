@@ -1,0 +1,3 @@
+[submodule "FeedEk"]
+	path = FeedEk
+	url = https://github.com/enginkizil/FeedEk.git
